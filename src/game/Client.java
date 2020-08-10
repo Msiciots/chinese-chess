@@ -17,7 +17,7 @@ public class Client {
 	public boolean creatClient() {
 		
 		try {
-			
+			// specify IP here
 			c1 = new Socket("localhost",1111);
 			in = new DataInputStream(c1.getInputStream());
 			out = new DataOutputStream(c1.getOutputStream());
