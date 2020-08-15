@@ -25,11 +25,11 @@ Line number 21, in Client.java
 ```
 **Step 2.** The server computer run game first, then the client computer. Both of them need to type user name.
 
-<img src="https://i.imgur.com/8txBXNy.png" width="30%">
+<img src="https://github.com/Msiciots/chinese-chess/raw/master/doc-img/enter-user-name.png" width="30%">
 
 
 **Step 3.** You will see the game window, the color of your name represents the part where you are.
 
-![](https://i.imgur.com/Epd2I0a.png)
+![](https://github.com/Msiciots/chinese-chess/raw/master/doc-img/game.png)
 
 **Step 4.** Red go first. Enjoy the game! You could chat with your enemy, and make some actions through buttons.
